@@ -6,6 +6,6 @@
 ---
 Segundo CheckPoint da Matéria de DevOps.
 Dockerfile
-- Primeiro Desafio - Tecnologia Java
-- Segundo Desafio - Tecnologia Python
-- Terceiro Desafio - Tecnologia NodeJS
+[] Primeiro Desafio - Tecnologia Java
+[x] Segundo Desafio - Tecnologia Python
+[x] Terceiro Desafio - Tecnologia NodeJS
